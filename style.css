@@ -1,0 +1,17 @@
+h1 {
+  /* Phông chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* Cỡ chữ */
+  font-size: 24px;
+  /* Kiểu chữ */
+  font-style: italic;
+  /* Căn chỉnh lề giữa trái phải */
+  text-align: center;
+  /* Viết hoa thường title */
+  text-transform: capitalize;
+  /* "Màu sắc" */
+  color: black;
+}
+h2 {
+  font-size: 13px;
+}
