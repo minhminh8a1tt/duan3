@@ -14,7 +14,14 @@ h1 {
   text-transform: capitalize;
   /* "Màu sắc" */
   color: black;
+  /* Làm mờ */
+  opacity: 0.8;
 }
 h2 {
   font-size: 13px;
+  /* Ẩn nội dung giống opacity nhưng ko tương tác được */
+  visibility: hidden;
+  /* Ẩn hết , cút hết, ko chiếm vùng không gian, k tương tác được */
+  /* cái nào viết sau thì nó theo cái đấy */
+  display: none;
 }
